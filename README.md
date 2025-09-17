@@ -2,6 +2,7 @@
 # 🧩 VidaXP
 
 ![Home](public/home-preview.png)
+
 App de **hábitos/tarefas** com **gamificação** (XP/níveis). Web first (Vite + React) e empacotado com **Capacitor** para Android. Backend em **Supabase**.
 
 🔗 **Site/App:** veja o link em **About → Website** do repositório
